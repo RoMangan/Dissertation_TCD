@@ -75,7 +75,7 @@ grid_summary_wide <- grid_summary %>%
 # Check the wide data structure
 print(grid_summary_wide)
 
-# Determine the majority land cover by area using a custom function to find the maximum column name by values
+# Determine the majority land cover by area using function to find the maximum column name by values
 grid_summary_wide$majority_land_cover <- apply(grid_summary_wide[,-1], 1, function(x) names(x)[which.max(x)])
 
 # Assign risk based on the majority land cover
