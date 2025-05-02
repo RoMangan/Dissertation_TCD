@@ -1,4 +1,10 @@
 #Pesticide and Pathogen Community data
+# This script was developed by Rosie Mangan
+# 
+# 1 School of Computer Science and Statistics at Trinity College Dublin, Ireland.
+
+# Script originated Jan 12, 2025
+# Last modified Feb 09, 2025
 
 #Load libraries
 library(tidyr)
