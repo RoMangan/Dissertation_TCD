@@ -1,3 +1,10 @@
+#Mapping of Response Variables
+# This script was developed by Rosie Mangan
+# 
+# 1 School of Computer Science and Statistics at Trinity College Dublin, Ireland.
+
+# Script originated July 20, 2024
+# Last modified Feb 2, 2025
 #Mapping of Response Variables: 
 #1)Total pesticides pollen (over LOQ)
 #2) Total pesticides pollen (over MRL) 
