@@ -1,5 +1,5 @@
 ################Predict Risk
-#Risk Map Connacht Counties
+
 # This script was developed by Rosie Mangan
 # 
 # 1 School of Computer Science and Statistics at Trinity College Dublin, Ireland.
