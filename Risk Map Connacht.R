@@ -1,4 +1,10 @@
 #Risk Map Connacht Counties
+# This script was developed by Rosie Mangan
+# 
+# 1 School of Computer Science and Statistics at Trinity College Dublin, Ireland.
+
+# Script originated May 27, 2024
+# Last modified Feb 10, 2025
 
 # load libraries
 
