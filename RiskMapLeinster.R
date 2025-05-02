@@ -1,4 +1,10 @@
 #Risk Map Leinster Counties
+# This script was developed by Rosie Mangan
+# 
+# 1 School of Computer Science and Statistics at Trinity College Dublin, Ireland.
+
+# Script originated May 15, 2024
+# Last modified Feb 12, 2025
 
 # load libraries
 
