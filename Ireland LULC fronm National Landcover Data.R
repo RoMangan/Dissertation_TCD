@@ -1,4 +1,11 @@
 #Ireland LULC frnm National Landcover Data
+
+# This script was developed by Rosie Mangan
+# 
+# 1 School of Computer Science and Statistics at Trinity College Dublin, Ireland.
+
+# Script originated Jan 10, 2025
+# Last modified Jan 14, 2025
 library(ggplot2)
 library(grid)
 
