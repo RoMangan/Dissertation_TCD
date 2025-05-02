@@ -1,4 +1,10 @@
 #Spatial autocorrelation Mapping Final
+# This script was developed by Rosie Mangan
+# 
+# 1 School of Computer Science and Statistics at Trinity College Dublin, Ireland.
+
+# Script originated March 3, 2024
+# Last modified Feb 16, 2025
 
 library(ade4)
 library(adespatial)
