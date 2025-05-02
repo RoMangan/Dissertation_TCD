@@ -1,3 +1,11 @@
+# This script was developed by Rosie Mangan and Cian White
+# 
+# 1 School of Computer Science and Statistics, Trinity College Dublin, Ireland.
+# 2 School of Natural Sciences, Trinity College Dublin, Ireland.
+
+
+# Script originated April 15, 2024
+# Last modified Jan 12, 2025
 # load libraries
 
 library(sf) # sf library to read geospatial information, like maps
