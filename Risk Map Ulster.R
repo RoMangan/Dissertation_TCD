@@ -1,5 +1,10 @@
 #Risk Map Ulster Counties
+# This script was developed by Rosie Mangan
+# 
+# 1 School of Computer Science and Statistics at Trinity College Dublin, Ireland.
 
+# Script originated June 1, 2024
+# Last modified Feb 19, 2025
 # load libraries
 
 library(sf)# sf is a library to read geospatial information, like maps
